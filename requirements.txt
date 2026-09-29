@@ -1,0 +1,7 @@
+assemblyai>=0.33.0
+google-genai>=0.2.2
+pygame>=2.6.1
+edge-tts>=6.1.12
+pyaudiowpatch>=0.2.12
+python-dotenv>=1.0.1
+Pillow>=10.2.0
